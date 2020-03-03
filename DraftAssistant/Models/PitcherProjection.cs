@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 namespace DraftAssistant.Models
 {
 
-    public class PitcherProjection : IProjection 
+    public class PitcherProjection : PlayerProjection 
     {
-        public string Name { get; set; }
-        public string Team { get; set; }
         public int Win { get; set; }
         public int Save { get; set; }
         public int Hold { get; set; }

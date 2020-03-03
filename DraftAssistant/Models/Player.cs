@@ -9,9 +9,9 @@ namespace DraftAssistant.Models
     public class Player
     {
         public PlayerADP ADPInfo { get; set; }
-        public IProjection ProjectionInfo {get; set;}
+        public PlayerProjection ProjectionInfo {get; set;}
 
-        public Player(PlayerADP adp, IProjection proj)
+        public Player(PlayerADP adp, PlayerProjection proj)
         {
             ADPInfo = adp;
             ProjectionInfo = proj;

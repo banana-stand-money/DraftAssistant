@@ -18,7 +18,6 @@ namespace DraftAssistant.Core
                 ).ToList();
         }
 
-        //TODO Peter Alonso vs Pete Alonso
         public static IEnumerable<Player> AggregateHitters(IEnumerable<PlayerADP> adps, IEnumerable<HitterProjection> hitterProj)
         {
             return adps.Where(a => !a.Positions.Contains("P"))

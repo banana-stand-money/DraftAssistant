@@ -21,12 +21,10 @@ namespace DraftAssistant.Core.Tests
 
         [TestMethod()]
         public void AggregatePitchersTest()
-        {
-            
+        {            
             var players = Core.DepthChartsParser.ParsePitcherCsv(@"C:\ProjectionData\DepthChartsProjectionsPitchers.csv");
             var combined = PlayerAggregator.AggregatePitchers(playerADPs, players);
-            Assert.AreEqual(440, combined.Count());
-
+            Assert.AreEqual(441, combined.Count());
         }
 
         [TestMethod()]
@@ -34,7 +32,7 @@ namespace DraftAssistant.Core.Tests
         {
             var players = Core.DepthChartsParser.ParseHitterCsv(@"C:\ProjectionData\DepthChartsProjectionsHitters.csv");
             var combined = PlayerAggregator.AggregateHitters(playerADPs, players);
-            Assert.AreEqual(504, combined.Count());
+            Assert.AreEqual(505, combined.Count());
             Assert.AreEqual(31,
                 combined.Where(c => c.ADPInfo.Name == "Max Muncy").
                 Select(c => new {proj = c.ProjectionInfo as HitterProjection }).

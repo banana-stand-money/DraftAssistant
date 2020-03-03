@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace DraftAssistant.Models
 {
-    public class HitterProjection : IProjection
+    public class HitterProjection : PlayerProjection
     {
-        public string Name { get; set; }
-        public string Team { get; set; }
+
+       
         public int Games { get; set; }
         public int PlateAppearances { get; set; }
         public int Runs { get; set; }
