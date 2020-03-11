@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DraftAssistant.Models
 {
-    public class PlayerADP
+    public class PlayerDynastyRank
     {
         private string _name;
 
@@ -18,13 +18,11 @@ namespace DraftAssistant.Models
                 _name = NormalizationUtils.NormalizeName(value);
             }
         }
-        public string Team { get; set; }
-
-        public List<string> Positions { get; set; }
-
-        public double ADP { get; set; }
-        public int MinPick { get; set; }
-
-        public int MaxPick { get; set; }
+        public string League { get; set; }
+        public double Age { get; set; }
+        public int Rank { get; set; }
+        public string Blurb { get; set; }
+        public string ETA { get; set; }
+        public string Position { get; set; }
     }
 }

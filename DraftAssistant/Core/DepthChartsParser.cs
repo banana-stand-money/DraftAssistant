@@ -24,6 +24,8 @@ namespace DraftAssistant.Core
                     projs.Add(new HitterProjection
                     {
                         Average = double.Parse(flds[16]),
+                        OBP = double.Parse(flds[17]),
+                        SLG = double.Parse(flds[18]),
                         Games = int.Parse(flds[2]),
                         HomeRuns = int.Parse(flds[8]),
                         Name = flds[0],

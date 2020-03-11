@@ -20,10 +20,10 @@ namespace DraftAssistant.Core.Tests
             var playerADPs = Core.NFBCParser.ParseADP(@"C:\ProjectionData\ADP.tsv");
             var hitters = Core.DepthChartsParser.ParseHitterCsv(@"C:\ProjectionData\DepthChartsProjectionsHitters.csv");
             var pitchers = Core.DepthChartsParser.ParsePitcherCsv(@"C:\ProjectionData\DepthChartsProjectionsPitchers.csv");
-   
+            var dynastyRanks = Core.DynastyRankParser.ParseDynastyCsv(@"C:\ProjectionData\IBWDynasty2020.csv");
 
-            var aggHitters = PlayerAggregator.AggregateHitters(playerADPs, hitters);
-            var aggPitchers = PlayerAggregator.AggregatePitchers(playerADPs, pitchers);
+            var aggHitters = PlayerAggregator.AggregateHitters(playerADPs, hitters, dynastyRanks);
+            var aggPitchers = PlayerAggregator.AggregatePitchers(playerADPs, pitchers,dynastyRanks);
             ExportCombinedRankings.ExportToCsv(path, aggHitters.Concat(aggPitchers));
             Assert.IsTrue(File.Exists(path));
         }

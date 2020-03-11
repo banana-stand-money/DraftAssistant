@@ -15,7 +15,7 @@ namespace DraftAssistant.Core.Tests
         {
             var recs = Core.NFBCParser.ParseADP(@"C:\ProjectionData\ADP.tsv");
             var numRecs = recs.Count();
-            Assert.AreEqual(1039, numRecs);
+            Assert.AreEqual(824, numRecs);
             Assert.AreEqual(1, recs.First(r => r.Name == "Mike Trout").MinPick);
         }
     }

@@ -7,8 +7,6 @@ namespace DraftAssistant.Models
 {
     public class HitterProjection : PlayerProjection
     {
-
-       
         public int Games { get; set; }
         public int PlateAppearances { get; set; }
         public int Runs { get; set; }
@@ -17,5 +15,8 @@ namespace DraftAssistant.Models
         public int StolenBases { get; set; }
         public int Strikeouts { get; set; }
         public double Average { get; set; }
+        public double OBP { get; set; }
+        public double SLG { get; set; }
+
     }
 }

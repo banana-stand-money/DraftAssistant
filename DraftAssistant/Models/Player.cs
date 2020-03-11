@@ -11,22 +11,28 @@ namespace DraftAssistant.Models
         public PlayerADP ADPInfo { get; set; }
         public PlayerProjection ProjectionInfo {get; set;}
 
-        public Player(PlayerADP adp, PlayerProjection proj)
+        public PlayerDynastyRank DynastyRAnk { get; set; }
+
+        public Player(PlayerADP adp, PlayerProjection proj, PlayerDynastyRank dynastyRAnk)
         {
             ADPInfo = adp;
             ProjectionInfo = proj;
+            DynastyRAnk = dynastyRAnk;
         }
 
         public override string ToString()
         {
             var sb = new StringBuilder();
-            sb.Append(String.Join(',', ADPInfo.Name,
+            sb.Append(String.Join(',', 
+                ADPInfo.Name,
                 String.Join('|', ADPInfo.Positions),
                 ADPInfo.Team,
                 ADPInfo.ADP,
-                ADPInfo.MinPick,
-                ADPInfo.MaxPick));
-
+                $"{ADPInfo.MinPick}->{ADPInfo.MaxPick}",
+                DynastyRAnk.Rank,
+                DynastyRAnk.Age,
+                DynastyRAnk.ETA));
+            
             sb.Append(",");
 
             if (ProjectionInfo.GetType().Equals((new HitterProjection()).GetType()))
@@ -40,7 +46,9 @@ namespace DraftAssistant.Models
                     pr.HomeRuns,
                     pr.RBIs,
                     pr.StolenBases,
-                    pr.Strikeouts
+                    pr.Strikeouts,
+                    pr.OBP,
+                    pr.SLG
                     ));
             }
             else
@@ -59,6 +67,8 @@ namespace DraftAssistant.Models
                     pr.FIP
                     ));
             }
+            sb.Append(",");
+            sb.Append(DynastyRAnk.Blurb);
 
             return sb.ToString();
         }
