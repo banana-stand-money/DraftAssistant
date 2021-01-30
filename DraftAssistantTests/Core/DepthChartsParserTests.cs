@@ -13,7 +13,7 @@ namespace DraftAssistant.Core.Tests
         [TestMethod()]
         public void ParseHitterCsvTest()
         {
-            var recs = Core.DepthChartsParser.ParseHitterCsv(@"C:\ProjectionData\DepthChartsProjectionsHitters.csv");
+            var recs = Core.DepthChartsParser.ParseHitterCsv(@".\TestFiles\DepthChartsProjectionsHitters.csv");
             var numRecs = recs.Count();
             Assert.AreEqual(611, numRecs);
             Assert.AreEqual(45, recs.First(r => r.Name == "Mike Trout").HomeRuns);
@@ -22,7 +22,7 @@ namespace DraftAssistant.Core.Tests
         [TestMethod()]
         public void ParsePitcherCsvTest()
         {
-            var recs = Core.DepthChartsParser.ParsePitcherCsv(@"C:\ProjectionData\DepthChartsProjectionsPitchers.csv");
+            var recs = Core.DepthChartsParser.ParsePitcherCsv(@".\TestFiles\DepthChartsProjectionsPitchers.csv");
             var numRecs = recs.Count();
             Assert.AreEqual(747, numRecs);
             Assert.AreEqual(11.68, recs.First(r => r.Name == "Tyler Glasnow").Kper9);

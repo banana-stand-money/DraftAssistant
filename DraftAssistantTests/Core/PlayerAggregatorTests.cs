@@ -17,8 +17,8 @@ namespace DraftAssistant.Core.Tests
         [TestInitialize]
         public void Setup()
         {
-            playerADPs = Core.NFBCParser.ParseADP(@"C:\ProjectionData\ADP.tsv");
-            dynastyRanks = Core.DynastyRankParser.ParseDynastyCsv(@"C:\ProjectionData\IBWDynasty2020.csv");
+            playerADPs = Core.NFBCParser.ParseADP(@".\TestFiles\ADP.tsv");
+            dynastyRanks = Core.DynastyRankParser.ParseDynastyCsv(@".\TestFiles\IBWDynasty2020.csv");
         }
 
         [TestMethod()]

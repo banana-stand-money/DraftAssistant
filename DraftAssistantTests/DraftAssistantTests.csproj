@@ -17,4 +17,19 @@
     <ProjectReference Include="..\DraftAssistant\DraftAssistant.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="TestFiles\ADP.tsv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TestFiles\DepthChartsProjectionsHitters.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TestFiles\DepthChartsProjectionsPitchers.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TestFiles\IBWDynasty2020.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

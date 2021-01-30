@@ -13,7 +13,7 @@ namespace DraftAssistant.Core.Tests
         [TestMethod()]
         public void ParseADPTest()
         {
-            var recs = Core.NFBCParser.ParseADP(@"C:\ProjectionData\ADP.tsv");
+            var recs = Core.NFBCParser.ParseADP(@".\TestFiles\\ADP.tsv");
             var numRecs = recs.Count();
             Assert.AreEqual(824, numRecs);
             Assert.AreEqual(1, recs.First(r => r.Name == "Mike Trout").MinPick);

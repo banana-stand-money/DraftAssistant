@@ -13,7 +13,7 @@ namespace DraftAssistant.Core.Tests
         [TestMethod()]
         public void ParseDynastyCsvTest()
         {
-            var recs = Core.DynastyRankParser.ParseDynastyCsv(@"C:\ProjectionData\IBWDynasty2020.csv");
+            var recs = Core.DynastyRankParser.ParseDynastyCsv(@".\TestFiles\IBWDynasty2020.csv");
             var numRecs = recs.Count();
             Assert.AreEqual(1013, numRecs);
             Assert.AreEqual(21, recs.First(r => r.Name == "Jo Adell").Age);

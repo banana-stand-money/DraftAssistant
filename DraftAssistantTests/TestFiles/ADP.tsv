@@ -1,0 +1,825 @@
+Rank	Player	Team	Position(s)	ADP	Min Pick	Max Pick	Difference	# Picks	Team	Team Pick
+1	Acuna Jr., Ronald	ATL	OF	1.63	1	4		35		
+2	Trout, Mike	LAA	OF	2.06	1	4		35		
+3	Yelich, Christian	MLW	OF	2.43	1	4		35		
+4	Bellinger, Cody	LAD	1B, OF	4.54	3	8		35		
+5	Cole, Gerrit	NYY	P	5.71	2	10		35		
+6	Betts, Mookie	LAD	OF	5.83	4	9		35		
+7	deGrom, Jacob	NYM	P	7.80	4	14		35		
+8	Lindor, Francisco	CLE	SS	9.09	5	14		35		
+9	Soto, Juan	WAS	OF	10.23	5	17		35		
+10	Turner, Trea	WAS	SS	10.54	5	18		35		
+11	Story, Trevor	COL	SS	11.23	7	19		35		
+12	Verlander, Justin	HOU	P	11.54	8	20		35		
+13	Arenado, Nolan	COL	3B	13.14	6	19		35		
+14	Scherzer, Max	WAS	P	15.00	10	22		35		
+15	Buehler, Walker	LAD	P	15.97	11	25		35		
+16	Ramirez, Jose	CLE	3B	17.31	11	26		35		
+17	Bregman, Alex	HOU	3B, SS	17.34	7	24		35		
+18	Freeman, Freddie	ATL	1B	18.14	8	27		35		
+19	Tatis Jr., Fernando	SD	SS	18.43	12	24		35		
+20	Harper, Bryce	PHI	OF	20.94	14	27		35		
+21	Rendon, Anthony	LAA	3B	21.23	12	27		35		
+22	Flaherty, Jack	STL	P	21.60	11	31		35		
+23	Devers, Rafael	BOS	3B	21.77	13	30		35		
+24	Martinez, J.D.	BOS	OF	22.03	13	29		35		
+25	Bieber, Shane	CLE	P	25.43	15	32		35		
+26	Marte, Starling	ARZ	OF	26.00	14	37		35		
+27	Torres, Gleyber	NYY	2B, SS	28.06	20	34		35		
+28	Strasburg, Stephen	WAS	P	28.17	22	37		35		
+29	Alonso, Pete	NYM	1B	32.09	21	51		35		
+30	Albies, Ozzie	ATL	2B	33.49	27	47		35		
+31	Baez, Javier	CHC	SS	35.51	26	51		35		
+32	Meadows, Austin	TB	OF	35.54	27	47		35		
+33	Marte, Ketel	ARZ	2B, OF	36.37	26	49		35		
+34	Altuve, Jose	HOU	2B	37.63	28	53		35		
+35	Bogaerts, Xander	BOS	SS	38.00	23	49		35		
+36	Castillo, Luis	CIN	P	39.06	28	55		35		
+37	Hiura, Keston	MLW	2B	41.09	29	58		35		
+38	Clevinger, Mike	CLE	P	41.20	24	85		35		
+39	Mondesi, Adalberto	KC	SS	41.34	25	93		35		
+40	Blackmon, Charlie	COL	OF	42.23	28	59		35		
+41	Realmuto, J.T.	PHI	C	44.20	23	65		35		
+42	Kershaw, Clayton	LAD	P	44.43	25	68		35		
+43	Alvarez, Yordan	HOU	UT	44.57	24	72		35		
+44	Villar, Jonathan	MIA	SS, 2B	45.40	27	86		35		
+45	Springer, George	HOU	OF	45.57	30	65		35		
+46	Corbin, Patrick	WAS	P	47.66	35	65		35		
+47	Giolito, Lucas	CWS	P	48.83	33	83		35		
+48	Snell, Blake	TB	P	49.83	25	75		35		
+49	Bryant, Kris	CHC	3B, OF	51.20	29	73		35		
+50	Olson, Matt	OAK	1B	51.20	36	66		35		
+51	Paddack, Chris	SD	P	51.94	37	68		35		
+52	Hader, Josh	MLW	P	54.00	37	77		35		
+53	Darvish, Yu	CHC	P	55.03	33	86		35		
+54	Jimenez, Eloy	CWS	OF	55.63	38	72		35		
+55	Guerrero Jr., Vladimir	TOR	3B	55.86	33	95		35		
+56	Nola, Aaron	PHI	P	57.31	29	81		35		
+57	Machado, Manny	SD	3B, SS	58.26	39	82		35		
+58	Merrifield, Whit	KC	2B, OF	58.34	40	83		35		
+59	Morton, Charlie	TB	P	58.86	36	79		35		
+60	Bichette, Bo	TOR	SS	59.26	38	80		35		
+61	LeMahieu, DJ	NYY	1B, 3B, 2B	59.74	31	86		35		
+62	Moncada, Yoan	CWS	3B	62.37	40	80		35		
+63	Greinke, Zack	HOU	P	64.23	46	85		35		
+64	Glasnow, Tyler	TB	P	64.63	35	100		35		
+65	Syndergaard, Noah	NYM	P	64.91	48	89		35		
+66	Muncy, Max	LAD	2B, 1B, 3B	66.91	38	98		35		
+67	Rizzo, Anthony	CHC	1B	67.89	46	92		35		
+68	Goldschmidt, Paul	STL	1B	68.57	47	84		35		
+69	Sanchez, Gary	NYY	C	70.80	35	103		35		
+70	Cruz, Nelson	MIN	UT	72.03	38	115		35		
+71	Abreu, Jose	CWS	1B	72.06	54	87		35		
+72	Yates, Kirby	SD	P	73.26	52	93		35		
+73	Berrios, Jose	MIN	P	75.83	62	98		35		
+74	Robles, Victor	WAS	OF	75.86	51	120		35		
+75	Robert, Luis	CWS	OF	76.71	56	105		35		
+76	Bauer, Trevor	CIN	P	77.83	63	94		35		
+77	Pham, Tommy	SD	OF	79.86	58	113		35		
+78	Chapman, Aroldis	NYY	P	80.74	61	122		35		
+79	Laureano, Ramon	OAK	OF	81.34	61	101		35		
+80	McNeil, Jeff	NYM	OF, 3B, 2B	82.17	41	107		35		
+81	Gallo, Joey	TEX	OF	83.94	56	108		35		
+82	Soler, Jorge	KC	OF	84.40	64	107		35		
+83	Woodruff, Brandon	MLW	P	85.26	66	119		35		
+84	Judge, Aaron	NYY	OF	86.00	29	177		35		
+85	Osuna, Roberto	HOU	P	87.69	67	127		35		
+86	Suarez, Eugenio	CIN	3B	88.03	62	121		35		
+87	Donaldson, Josh	MIN	3B	88.20	61	107		35		
+88	Semien, Marcus	OAK	SS	89.20	54	114		35		
+89	Castellanos, Nick	CIN	OF	89.31	57	103		35		
+90	Ozuna, Marcell	ATL	OF	90.80	63	116		35		
+91	Moustakas, Mike	CIN	2B, 3B	91.11	68	130		35		
+92	Rosario, Eddie	MIN	OF	91.77	70	120		35		
+93	Stanton, Giancarlo	NYY	OF	92.49	50	170		35		
+94	Chapman, Matt	OAK	3B	92.49	77	117		35		
+95	Anderson, Tim	CWS	SS	94.40	68	121		35		
+96	Bell, Josh	PIT	1B	94.49	78	120		35		
+97	Grandal, Yasmani	CWS	1B, C	94.97	59	131		35		
+98	Kluber, Corey	TEX	P	95.63	60	124		35		
+99	Gray, Sonny	CIN	P	97.97	75	122		35		
+100	Hendriks, Liam	OAK	P	99.63	75	140		35		
+101	Montas, Frankie	OAK	P	102.94	63	132		35		
+102	Correa, Carlos	HOU	SS	104.03	73	121		35		
+103	Soroka, Mike	ATL	P	106.23	85	141		35		
+104	Mancini, Trey	BAL	OF, 1B	108.20	70	164		35		
+105	Jansen, Kenley	LAD	P	108.97	79	147		35		
+106	Rogers, Taylor	MIN	P	110.26	86	160		35		
+107	Garver, Mitch	MIN	C	110.91	67	154		35		
+108	Hoskins, Rhys	PHI	1B	111.34	88	149		35		
+109	Sano, Miguel	MIN	3B	111.60	88	164		35		
+110	Contreras, Willson	CHC	C	112.37	43	153		35		
+111	Lynn, Lance	TEX	P	114.89	83	140		35		
+112	Luzardo, Jesus	OAK	P	114.89	89	144		35		
+113	Wheeler, Zack	PHI	P	115.57	64	156		35		
+114	Conforto, Michael	NYM	OF	116.83	99	139		35		
+115	Escobar, Eduardo	ARZ	2B, 3B	116.94	71	149		35		
+116	Diaz, Edwin	NYM	P	117.46	91	159		35		
+117	Gallen, Zac	ARZ	P	117.51	88	137		35		
+118	Hand, Brad	CLE	P	117.63	97	158		35		
+119	Benintendi, Andrew	BOS	OF	119.86	101	155		35		
+120	Lamet, Dinelson	SD	P	120.51	88	152		35		
+121	Reyes, Franmil	CLE	OF	121.69	97	145		35		
+122	Bumgarner, Madison	ARZ	P	124.66	84	169		35		
+123	Carrasco, Carlos	CLE	P	126.49	93	182		35		
+124	Fried, Max	ATL	P	127.17	108	165		35		
+125	Giles, Ken	TOR	P	127.29	103	195		35		
+126	Biggio, Cavan	TOR	2B	127.86	104	167		35		
+127	Neris, Hector	PHI	P	129.54	93	191		35		
+128	Santana, Danny	TEX	1B, OF	130.03	96	168		35		
+129	Brantley, Michael	HOU	OF	130.20	103	151		35		
+130	Sale, Chris	BOS	P	131.37	27	216		35		
+131	Mercado, Oscar	CLE	OF	131.51	105	219		35		
+132	Schwarber, Kyle	CHC	OF	132.31	105	171		35		
+133	Rodriguez, Eduardo	BOS	P	133.23	72	167		35		
+134	Ohtani, Shohei	LAA	P	133.77	63	196		35		
+135	Edman, Tommy	STL	2B, 3B	135.51	100	177		35		
+136	Kepler, Max	MIN	OF	135.71	109	165		35		
+137	Santana, Carlos	CLE	1B	140.06	102	186		35		
+138	Iglesias, Raisel	CIN	P	143.49	109	195		35		
+139	Kimbrel, Craig	CHC	P	144.09	113	204		35		
+140	Ryu, Hyun-Jin	TOR	P	145.09	113	172		35		
+141	Dahl, David	COL	OF	145.26	111	174		35		
+142	Andrus, Elvis	TEX	SS	145.29	117	195		35		
+143	Rosario, Amed	NYM	SS	145.83	110	207		35		
+144	Gurriel, Yuli	HOU	1B, 3B	146.31	111	174		35		
+145	Smith, Will	LAD	C	146.57	93	189		35		
+146	Urias, Julio	LAD	P	147.23	124	170		35		
+147	Perez, Salvador	KC	C	147.43	104	188		35		
+148	Seager, Corey	LAD	SS	148.06	118	182		35		
+149	Ray, Robbie	ARZ	P	150.57	102	185		35		
+150	Buxton, Byron	MIN	OF	150.97	121	197		35		
+151	Gurriel Jr., Lourdes	TOR	OF	151.43	130	183		35		
+152	Workman, Brandon	BOS	P	151.51	113	218		35		
+153	Price, David	LAD	P	155.69	128	187		35		
+154	Kingery, Scott	PHI	3B, OF	155.94	128	180		35		
+155	Hendricks, Kyle	CHC	P	157.14	122	183		35		
+156	Encarnacion, Edwin	CWS	1B	158.34	121	202		35		
+157	Turner, Justin	LAD	3B	158.46	123	188		35		
+158	Boyd, Matthew	DET	P	158.74	125	191		35		
+159	Colome, Alex	CWS	P	158.94	107	219		35		
+160	Polanco, Jorge	MIN	SS	160.06	117	216		35		
+161	Lux, Gavin	LAD	2B	162.94	123	203		35		
+162	Anderson, Nick	TB	P	165.46	107	256		35		
+163	Ramos, Wilson	NYM	C	167.83	127	207		35		
+164	Calhoun, Willie	TEX	OF	168.14	140	201		35		
+165	Robles, Hansel	LAA	P	168.57	123	241		35		
+166	Davis, J.D.	NYM	OF, 3B	171.63	137	237		35		
+167	Minor, Mike	TEX	P	172.11	122	206		35		
+168	Davis, Khris	OAK	UT	172.43	130	226		35		
+169	Leclerc, Jose 	TEX	P	172.71	128	240		35		
+170	Paxton, James	NYY	P	173.00	143	221		35		
+171	Martinez, Carlos	STL	P	173.43	145	201		35		
+172	Manaea, Sean	OAK	P	174.11	136	215		35		
+173	Tucker, Kyle	HOU	OF	174.43	146	215		35		
+174	Maeda, Kenta	MIN	P	174.83	151	201		35		
+175	McMahon, Ryan	COL	2B, 3B	175.29	142	209		35		
+176	Bradley, Archie	ARZ	P	175.60	129	246		35		
+177	Marquez, German	COL	P	176.97	143	221		35		
+178	Smith, Will	ATL	P	177.94	128	270		35		
+179	Cain, Lorenzo	MLW	OF	181.11	145	237		35		
+180	Odorizzi, Jake	MIN	P	181.23	158	208		35		
+181	Dozier, Hunter	KC	3B, OF	181.63	148	218		35		
+182	Reynolds, Bryan	PIT	OF	181.66	113	220		35		
+183	Smith, Mallex	SEA	OF	182.20	127	306		35		
+184	Vazquez, Christian	BOS	C	185.54	125	247		35		
+185	Hampson, Garrett	COL	2B, OF	186.43	157	257		35		
+186	DeJong, Paul	STL	SS	186.57	142	225		35		
+187	Segura, Jean	PHI	SS	186.91	131	223		35		
+188	McCullers Jr., Lance	HOU	P	187.09	160	214		35		
+189	Narvaez, Omar	MLW	C	190.43	153	250		35		
+190	Voit, Luke	NYY	1B	190.91	152	221		35		
+191	Newman, Kevin	PIT	2B, SS	192.03	166	217		35		
+192	Heaney, Andrew	LAA	P	194.74	143	239		35		
+193	Puig, Yasiel	FA	OF	195.03	121	264		35		
+194	Lowe, Brandon	TB	2B	195.94	139	251		35		
+195	Foltynewicz, Mike	ATL	P	196.57	165	235		35		
+196	Kelly, Carson	ARZ	C	198.51	160	238		35		
+197	Weaver, Luke	ARZ	P	198.69	164	232		35		
+198	Doolittle, Sean	WAS	P	199.37	148	317		35		
+199	Walker, Christian	ARZ	1B	200.71	159	266		35		
+200	Stroman, Marcus	NYM	P	201.86	172	226		35		
+201	Urquidy, Jose	HOU	P	203.46	184	237		35		
+202	Gallegos, Giovanny	STL	P	204.06	113	293		35		
+203	Upton, Justin	LAA	OF	204.97	164	234		35		
+204	Gregorius, Didi	PHI	SS	205.63	161	247		35		
+205	Kennedy, Ian	KC	P	206.06	152	326		35		
+206	Garcia, Avisail	MLW	OF	207.20	97	237		35		
+207	Murphy, Sean	OAK	C	207.94	162	270		35		
+208	Tanaka, Masahiro	NYY	P	209.31	176	249		35		
+209	Musgrove, Joe	PIT	P	209.69	177	242		35		
+210	Alfaro, Jorge	MIA	C	210.51	167	255		35		
+211	Eaton, Adam	WAS	OF	210.66	173	267		35		
+212	Kela, Keone	PIT	P	214.89	156	316		35		
+213	Anderson, Brian	MIA	OF, 3B	215.66	132	251		35		
+214	Jimenez, Joe	DET	P	216.86	165	361		35		
+215	Odor, Rougned	TEX	2B	217.86	109	306		35		
+216	Wong, Kolten	STL	2B	218.77	176	277		35		
+217	Bundy, Dylan	LAA	P	219.34	148	272		35		
+218	Urshela, Gio	NYY	3B	223.14	176	259		35		
+219	Pederson, Joc	LAD	1B, OF	224.20	172	299		35		
+220	Cron, C.J.	DET	1B	227.20	148	293		35		
+221	Molina, Yadier	STL	C	227.37	179	283		35		
+222	Senzel, Nick	CIN	OF	228.14	178	293		35		
+223	Murphy, Tom	SEA	C	228.71	175	286		35		
+224	Smith, Caleb	MIA	P	230.31	196	277		35		
+225	James, Josh	HOU	P	230.74	163	276		35		
+226	Melancon, Mark	ATL	P	231.00	174	370		35		
+227	Keller, Mitch	PIT	P	231.83	198	267		35		
+228	Adell, Jo	LAA	OF	231.94	172	350		35		
+229	Mejia, Francisco	SD	C	232.09	179	275		35		
+230	Lucchesi, Joey	SD	P	232.46	196	279		35		
+231	Hosmer, Eric	SD	1B	235.34	192	286		35		
+232	Choo, Shin-Soo	TEX	OF	236.11	181	290		35		
+233	Andujar, Miguel	NYY	UT	236.66	178	310		35		
+234	Canha, Mark	OAK	OF	237.37	189	276		35		
+235	Houser, Adrian	MLW	P	238.20	195	291		35		
+236	Renfroe, Hunter	TB	OF	240.03	188	333		35		
+237	Archer, Chris	PIT	P	240.46	206	266		35		
+238	d'Arnaud, Travis	ATL	1B, C	240.71	184	321		35		
+239	Gray, Jon	COL	P	243.06	205	298		35		
+240	Murphy, Daniel	COL	1B	243.97	207	278		35		
+241	Mazara, Nomar	CWS	OF	244.06	202	292		35		
+242	Chavis, Michael	BOS	1B, 2B	245.20	182	304		35		
+243	DeSclafani, Anthony	CIN	P	246.83	222	284		35		
+244	Peralta, David	ARZ	OF	247.86	213	300		35		
+245	Yarbrough, Ryan	TB	P	249.23	172	315		35		
+246	Arraez, Luis	MIN	2B, OF	251.63	204	332		35		
+247	Posey, Buster	SF	C	253.14	200	303		35		
+248	Berti, Jon	MIA	3B, SS, OF	255.14	152	297		35		
+249	Verdugo, Alex	BOS	OF	255.80	184	365		35		
+250	Jansen, Danny	TOR	C	256.31	225	313		35		
+251	Cease, Dylan	CWS	P	256.66	204	330		35		
+252	Keuchel, Dallas	CWS	P	256.89	199	330		35		
+253	Swanson, Dansby	ATL	SS	257.06	198	332		35		
+254	Castro, Starlin	WAS	3B, 2B	259.69	200	337		35		
+255	Civale, Aaron	CLE	P	259.71	210	311		35		
+256	Richards, Garrett	SD	P	259.77	225	294		35		
+257	Puk, A.J.	OAK	P	260.09	207	338		35		
+258	Hays, Austin	BAL	OF	261.46	202	322		35		
+259	Myers, Wil	SD	OF	261.97	217	317		35		
+260	Grichuk, Randal	TOR	OF	262.37	188	316		35		
+261	Braun, Ryan	MLW	OF	263.89	178	336		35		
+262	Akiyama, Shogo	CIN	OF	264.43	184	316		35		
+263	Diaz, Yandy	TB	1B, 3B	264.77	183	347		35		
+264	Votto, Joey	CIN	1B	264.89	208	333		35		
+265	Hilliard, Sam	COL	OF	267.91	208	320		35		
+266	Alcantara, Sandy	MIA	P	268.03	204	352		35		
+267	Happ, Ian	CHC	OF	269.74	223	331		35		
+268	Perez, Roberto	CLE	C	271.80	221	327		35		
+269	Hernandez, Cesar	CLE	2B	272.49	203	348		35		
+270	McCutchen, Andrew	PHI	OF	273.66	184	400		34		
+271	Madrigal, Nick	CWS	2B	276.69	210	383		35		
+272	Polanco, Gregory	PIT	OF	279.49	243	326		35		
+273	Kopech, Michael	CWS	P	281.97	207	362		35		
+274	Carlson, Dylan	STL	OF	283.54	197	361		34		
+275	Suzuki, Kurt	WAS	C	283.97	239	334		35		
+276	Davis, Wade	COL	P	288.29	209	386		34		
+277	Nunez, Renato	BAL	1B	289.17	223	322		34		
+278	McKay, Brendan	TB	P	290.17	225	359		35		
+279	Santana, Domingo	CLE	OF	290.23	246	369		35		
+280	Chirinos, Yonny	TB	P	292.23	227	356		35		
+281	Kieboom, Carter	WAS	SS	295.91	242	339		35		
+282	Dickerson, Corey	MIA	OF	300.03	241	339		34		
+283	Goodrum, Niko	DET	2B, SS, OF	301.09	133	352		33		
+284	Cueto, Johnny	SF	P	302.17	229	376		35		
+285	Riley, Austin	ATL	OF	304.00	200	357		35		
+286	Gardner, Brett	NYY	OF	306.51	228	334		34		
+287	Gore, Mackenzie	SD	P	308.23	221	367		34		
+288	Solak, Nick	TEX	UT	308.83	248	409		35		
+289	Chirinos, Robinson	TEX	C	308.86	228	355		34		
+290	La Stella, Tommy	LAA	2B, 3B	309.60	213	351		34		
+291	Wood, Alex	LAD	P	309.94	228	352		34		
+292	Gausman, Kevin	SF	P	310.00	269	369		35		
+293	Matz, Steven	NYM	P	310.29	244	350		34		
+294	Samardzija, Jeff	SF	P	313.23	233	377		35		
+295	Montgomery, Jordan	NYY	P	314.74	193	393		34		
+296	Eovaldi, Nathan	BOS	P	319.29	218	356		33		
+297	Oberg, Scott	COL	P	321.14	230	407		34		
+298	Calhoun, Kole	ARZ	OF	323.09	239	346		33		
+299	Lindblom, Josh	MLW	P	328.06	250	387		34		
+300	Pollock, A.J.	LAD	OF	328.06	245	389		33		
+301	Schoop, Jonathan	DET	2B	334.91	247	352		33		
+302	Tauchman, Mike	NYY	OF	336.51	229	398		34		
+303	Happ, J.A.	NYY	P	341.77	281	381		33		
+304	Givens, Mychal	BAL	P	341.97	214	419		32		
+305	Grisham, Trent	SD	OF	342.11	244	376		32		
+306	Pearson, Nate	TOR	P	342.80	254	393		33		
+307	May, Dustin	LAD	P	342.89	228	426		31		
+308	Kintzler, Brandon	MIA	P	347.80	213	417		31		
+309	Stripling, Ross	LAD	P	347.89	232	386		32		
+310	Yastrzemski, Mike	SF	OF	347.94	228	362		32		
+311	Hudson, Dakota	STL	P	352.86	223	354		31		
+312	Teheran, Julio	LAA	P	354.63	229	367		31		
+313	Pineda, Michael	MIN	P	361.63	255	374		31		
+314	Adames, Willy	TB	SS	362.51	266	359		31		
+315	Pagan, Emilio	SD	P	365.14	220	411		31		
+316	Nimmo, Brandon	NYM	OF	366.23	283	391		32		
+317	Aquino, Aristides	CIN	OF	366.71	216	393		30		
+318	Castro, Jason	LAA	C	373.97	255	365		30		
+319	Seager, Kyle	SEA	3B	374.34	237	393		30		
+320	Shaw, Travis	TOR	3B	376.71	238	376		30		
+321	Fletcher, David	LAA	SS, OF, 2B, 3B	378.00	228	374		29		
+322	Porcello, Rick	NYM	P	378.23	243	373		30		
+323	Hudson, Daniel	WAS	P	380.69	218	395		29		
+324	Peraza, Jose	BOS	OF, 2B, SS	385.09	273	380		30		
+325	Hernandez, Teoscar	TOR	OF	385.37	293	384		30		
+326	Means, John	BAL	P	387.26	228	364		30		
+327	Lopez, Reynaldo	CWS	P	391.20	253	362		28		
+328	Gibson, Kyle	TEX	P	396.71	274	409		29		
+329	Quintana, Jose	CHC	P	409.63	251	373		27		
+330	Pillar, Kevin	BOS	OF	412.09	229	383		28		
+331	Harvey, Hunter	BAL	P	413.54	211	420		28		
+332	Frazier, Clint	NYY	OF	417.49	254	453		28		
+333	Aguilar, Jesus	MIA	1B	418.14	289	385		28		
+334	Canning, Griffin	LAA	P	418.37	220	463		27		
+335	Gordon, Dee	SEA	2B	420.74	205	413		27		
+336	Lugo, Seth	NYM	P	421.43	244	416		27		
+337	Romine, Austin	DET	C	421.86	208	396		28		
+338	Cabrera, Miguel	DET	1B	427.46	181	404		27		
+339	McCann, James	CWS	C	429.23	156	370		25		
+340	Watson, Tony	SF	P	432.74	249	404		26		
+341	Mikolas, Miles	STL	P	437.97	227	387		25		
+342	Peralta, Freddy	MLW	P	442.14	274	413		26		
+343	Sanchez, Anibal	WAS	P	443.31	274	410		26		
+344	Tsutsugo, Yoshi	TB	OF	444.40	235	391		25		
+345	Burnes, Corbin	MLW	P	449.20	294	439		27		
+346	Helsley, Ryan	STL	P	450.17	256	466		25		
+347	Santander, Anthony	BAL	OF	450.63	266	405		25		
+348	Treinen, Blake	LAD	P	451.77	264	416		26		
+349	Gonzales, Marco	SEA	P	460.00	289	386		24		
+350	Urias, Luis	MLW	SS, 2B	462.31	307	411		25		
+351	Sheffield, Justus	SEA	P	462.46	307	490		26		
+352	Hamels, Cole	ATL	P	466.26	265	419		24		
+353	Castillo, Diego	TB	P	466.46	277	408		24		
+354	Lopez, Pablo	MIA	P	471.57	304	395		24		
+355	Bassitt, Chris	OAK	P	474.63	265	425		24		
+356	White, Evan	SEA	1B	475.09	263	397		23		
+357	Barnhart, Tucker	CIN	C	475.57	313	413		24		
+358	Simmons, Andrelton	LAA	SS	477.54	286	436		24		
+359	Galvis, Freddy	CIN	2B, SS	480.14	286	396		23		
+360	Yamamoto, Jordan	MIA	P	487.23	334	443		24		
+361	Fiers, Mike	OAK	P	487.86	271	399		22		
+362	Kikuchi, Yusei	SEA	P	489.94	293	484		24		
+363	Plesac, Zach	CLE	P	491.80	286	424		23		
+364	Lester, Jon	CHC	P	495.89	242	473		22		
+365	Cespedes, Yoenis	NYM	OF	498.37	265	470		22		
+366	Smoak, Justin	MLW	1B	501.49	306	431		22		
+367	Alberto, Hanser	BAL	2B, 3B	508.14	203	392		21		
+368	Profar, Jurickson	SD	2B	509.31	282	396		21		
+369	Cano, Robinson	NYM	2B	512.09	281	443		20		
+370	Ahmed, Nick	ARZ	SS	517.51	192	411		19		
+371	Carpenter, Matt	STL	3B	517.91	295	409		20		
+372	Turnbull, Spencer	DET	P	519.40	253	513		21		
+373	Shoemaker, Matt	TOR	P	523.00	247	581		21		
+374	Kiermaier, Kevin	TB	OF	526.11	319	419		20		
+375	Kim, Kwang-Hyun	STL	P	529.09	309	481		21		
+376	Lyles, Jordan	TEX	P	533.14	333	448		20		
+377	Kendrick, Howie	WAS	1B, 2B	534.40	300	400		19		
+378	Pressly, Ryan	HOU	P	536.77	273	415		18		
+379	Cooper, Garrett	MIA	1B, OF	540.09	249	420		19		
+380	Franco, Maikel	KC	3B	541.43	323	416		19		
+381	Davies, Zach	SD	P	541.46	278	451		19		
+382	Zunino, Mike	TB	C	543.66	306	517		19		
+383	German, Domingo	NYY	P	543.89	241	462		18		
+384	Hirano, Yoshihisa	SEA	P	545.51	190	564		18		
+385	Whitley, Forrest	HOU	P	546.40	280	404		18		
+386	Bailey, Homer	MIN	P	547.09	317	512		19		
+387	Martinez, Jose	TB	OF	553.23	272	453		18		
+388	Dyson, Jarrod	PIT	OF	554.31	195	475		17		
+389	Betances, Dellin	NYM	P	556.49	276	442		17		
+390	Mountcastle, Ryan	BAL	1B	557.29	324	439		18		
+391	Caratini, Victor	CHC	C, 1B	559.71	290	409		17		
+392	Magill, Matt	SEA	P	561.40	255	418		16		
+393	Arrieta, Jake	PHI	P	561.66	315	489		18		
+394	Stallings, Jacob	PIT	C	566.60	346	477		18		
+395	Severino, Pedro	BAL	C	566.89	309	472		17		
+396	Cabrera, Asdrubal	WAS	2B, 3B	568.43	310	432		17		
+397	Bradley Jr., Jackie	BOS	OF	572.83	332	451		17		
+398	Dubon, Mauricio	SF	2B	573.17	253	420		15		
+399	Miley, Wade	CIN	P	577.63	315	416		16		
+400	Sisco, Chance	BAL	C	581.49	340	454		16		
+401	Howard, Spencer	PHI	P	581.94	318	485		16		
+402	Eflin, Zach	PHI	P	582.51	351	513		17		
+403	Gonzalez, Marwin	MIN	1B, 3B, OF	583.37	321	449		16		
+404	Karinchak, James	CLE	P	584.06	262	486		15		
+405	Walker, Taijuan	SEA	P	585.57	318	459		16		
+406	O'Neill, Tyler	STL	OF	587.11	287	458		15		
+407	Newcomb, Sean	ATL	P	588.14	330	486		16		
+408	Lewis, Kyle	SEA	OF	595.40	239	537		15		
+409	Mize, Casey	DET	P	595.89	319	480		15		
+410	Voth, Austin	WAS	P	599.29	337	519		15		
+411	Taylor, Chris	LAD	2B, SS, OF	601.17	349	462		15		
+412	Kelly, Merrill	ARZ	P	606.63	331	486		14		
+413	Wright, Kyle	ATL	P	607.49	302	512		14		
+414	Winker, Jesse	CIN	OF	607.51	344	493		14		
+415	Lowe, Nate	TB	1B	607.57	304	417		13		
+416	Haniger, Mitch	SEA	OF	609.97	315	551		14		
+417	Frazier, Todd	TEX	3B	612.23	295	513		14		
+418	Bader, Harrison	STL	OF	617.06	301	406		12		
+419	Heyward, Jason	CHC	OF	620.43	277	471		13		
+420	Roark, Tanner	TOR	P	621.63	364	510		14		
+421	Vogt, Stephen	ARZ	C	621.71	352	516		14		
+422	Britton, Zack	NYY	P	621.91	328	508		13		
+423	Duffy, Danny	KC	P	622.09	366	540		14		
+424	Davis, Chris	BAL	1B	623.03	313	689		14		
+425	Pivetta, Nick	PHI	P	623.23	346	543		14		
+426	Astudillo, Willians	MIN	C	627.09	280	470		12		
+427	Long, Shed	SEA	2B	627.63	307	456		12		
+428	Fraley, Jake	SEA	OF	629.97	283	516		12		
+429	Reyes, Alex	STL	P	630.03	313	476		12		
+430	Junis, Jakob	KC	P	630.97	343	571		13		
+431	Alvarado, Jose	TB	P	631.74	309	519		12		
+432	Anderson, Shaun	SF	P	632.71	336	424		11		
+433	Belt, Brandon	SF	1B	632.77	353	490		12		
+434	Gomes, Yan	WAS	C	632.86	328	473		12		
+435	Hoerner, Nico	CHC	SS	633.23	331	458		11		
+436	Hill, Rich	MIN	P	633.46	349	469		12		
+437	Mateo, Jorge	OAK	SS	633.74	337	436		11		
+438	Barnes, Matt	BOS	P	633.89	341	453		11		
+439	Vogelbach, Daniel	SEA	1B	635.09	336	527		12		
+440	Velasquez, Vince	PHI	P	635.49	372	594		13		
+441	Wainwright, Adam	STL	P	635.69	386	555		13		
+442	Thames, Eric	WAS	1B	637.86	321	462		11		
+443	Cordero, Franchy	SD	OF	640.91	329	472		11		
+444	Smyly, Drew	SF	P	641.51	337	586		12		
+445	Keller, Brad	KC	P	644.77	382	569		13		
+446	Loaisiga, Jonathan	NYY	P	644.94	287	546		11		
+447	Inciarte, Ender	ATL	OF	646.20	335	480		10		
+448	Margot, Manuel	TB	OF	646.20	232	455		9		
+449	DeShields, Delino	CLE	OF	648.43	316	468		10		
+450	Rodgers, Brendan	COL	2B	654.57	289	440		9		
+451	Longoria, Evan	SF	3B	655.94	374	478		10		
+452	Wolters, Tony	COL	C	658.03	317	475		10		
+453	Sandoval, Patrick	LAA	P	658.06	334	585		10		
+454	Leake, Mike	ARZ	P	661.74	366	576		11		
+455	Pomeranz, Drew	SD	P	665.03	303	522		9		
+456	Bohm, Alec	PHI	3B	665.26	339	479		9		
+457	Markakis, Nick	ATL	OF	666.94	380	539		10		
+458	Mahle, Tyler	CIN	P	667.80	304	520		9		
+459	Bummer, Aaron	CWS	P	669.26	319	565		9		
+460	Ottavino, Adam	NYY	P	672.00	299	598		9		
+461	McGuire, Reese	TOR	C	672.97	320	526		9		
+462	Iglesias, Jose	BAL	SS	673.40	378	534		9		
+463	Frazier, Adam	PIT	2B	674.37	353	475		8		
+464	Camargo, Johan	ATL	SS	674.66	345	509		9		
+465	Garcia, Leury	CWS	OF	675.09	347	481		8		
+466	Maldonado, Martin	HOU	C	675.20	358	566		9		
+467	Bart, Joey	SF	C	676.37	357	552		8		
+468	Choi, Ji-Man	TB	1B	677.63	354	494		8		
+469	Flowers, Tyler	ATL	C	679.09	309	518		8		
+470	Kelenic, Jarred	SEA	OF	679.49	346	562		9		
+471	Pujols, Albert	LAA	1B	680.00	396	479		8		
+472	Tellez, Rowdy	TOR	1B	680.60	329	516		8		
+473	Stanek, Ryne	MIA	P	681.06	354	572		8		
+474	Hicks, Aaron	NYY	OF	682.31	376	620		9		
+475	Franco, Wander	TB	SS	682.77	337	514		8		
+476	Desmond, Ian	COL	OF	683.00	324	548		8		
+477	Crawford, J.P.	SEA	SS	683.14	410	528		8		
+478	Diaz, Isan	MIA	2B	683.89	328	556		8		
+479	Hernandez, Elieser	MIA	P	684.46	361	559		8		
+480	Piscotty, Stephen	OAK	OF	684.80	333	502		7		
+481	Lauer, Eric	MLW	P	684.97	371	570		8		
+482	Garcia, Deivi	NYY	P	685.57	372	594		9		
+483	Reyes, Victor	DET	OF	687.03	396	478		7		
+484	Quinn, Roman	PHI	OF	688.63	301	577		8		
+485	Harris, Will	WAS	P	689.20	321	535		7		
+486	Moran, Colin	PIT	3B	690.86	401	487		7		
+487	Lorenzen, Michael	CIN	P	691.97	325	552		7		
+488	Gordon, Alex	KC	OF	692.46	368	538		7		
+489	Harrison, Monte	MIA	OF	692.94	302	680		8		
+490	Gonsolin, Tony	LAD	P	693.31	401	522		7		
+491	Greene, Shane	ATL	P	693.31	302	588		7		
+492	Pence, Hunter	SF	OF	693.34	407	608		8		
+493	Ford, Mike	NYY	1B	694.40	384	619		8		
+494	Wendle, Joey	TB	2B, 3B	694.46	363	581		7		
+495	Romo, Sergio	MIN	P	695.03	230	603		7		
+496	Straw, Myles	HOU	SS	695.09	356	517		7		
+497	Knebel, Corey	MLW	P	696.86	354	512		6		
+498	Reddick, Josh	HOU	OF	697.09	276	618		7		
+499	Sanchez, Sixto	MIA	P	697.31	335	559		7		
+500	Hamilton, Billy	FA	OF	697.83	304	605		7		
+501	Skubal, Tarik	DET	P	698.43	342	549		7		
+502	Arcia, Orlando	MLW	SS	698.94	415	549		7		
+503	Munoz, Andres	SD	P	699.17	254	623		7		
+504	Anderson, Chase	TOR	P	699.51	419	585		7		
+505	Miller, Andrew	STL	P	699.57	359	650		7		
+506	Beede, Tyler	SF	P	699.91	317	741		7		
+507	Goodwin, Brian	LAA	OF	700.09	354	570		7		
+508	Ross, Joe	WAS	P	700.20	399	603		7		
+509	Bauers, Jake	CLE	1B, OF	700.60	354	595		7		
+510	Hernandez, Kike	LAD	2B, OF	700.91	382	580		7		
+511	May, Trevor	MIN	P	701.17	397	540		6		
+512	Haseley, Adam	PHI	OF	701.46	388	549		6		
+513	Gonzalez, Gio	CWS	P	701.49	362	621		7		
+514	Green, Chad	NYY	P	702.06	355	582		7		
+515	Boxberger, Brad	KC	P	703.11	340	637		6		
+516	McHugh, Collin	BOS	P	703.20	379	528		6		
+517	Ginkel, Kevin	ARZ	P	703.34	360	563		6		
+518	Chatwood, Tyler	CHC	P	703.37	413	595		7		
+519	Pache, Cristian	ATL	OF	703.89	399	639		7		
+520	Smith, Dominic	NYM	OF, 1B	703.91	429	522		6		
+521	Tapia, Raimel	COL	OF	704.57	437	510		6		
+522	Lopez, Nicky	KC	2B, SS	704.57	446	525		6		
+523	Candelario, Jeimer	DET	1B, 3B	704.77	378	557		6		
+524	Barreto, Franklin	OAK	2B	704.77	426	535		6		
+525	Buttrey, Ty	LAA	P	704.94	421	546		6		
+526	Manning, Matt	DET	P	705.49	422	533		6		
+527	Crick, Kyle	PIT	P	705.74	442	515		6		
+528	Wacha, Michael	NYM	P	706.46	396	584		7		
+529	Dobnak, Randy	MIN	P	706.49	401	580		6		
+530	Ponce de Leon, Daniel	STL	P	706.63	401	595		7		
+531	Jones, JaCoby	DET	OF	706.89	410	570		6		
+532	Souza Jr., Steven	CHC	OF	706.94	430	552		6		
+533	Peacock, Brad	HOU	P	707.06	404	606		6		
+534	Jackson, Luke	ATL	P	707.11	276	682		7		
+535	Dickerson, Alex	SF	OF	708.03	355	583		6		
+536	Lamb, Jake	ARZ	1B, 3B	708.63	429	563		6		
+537	Hedges, Austin	SD	C	709.17	408	584		7		
+538	Brinson, Lewis	MIA	OF	709.20	361	588		6		
+539	Tucker, Cole	PIT	SS	709.74	346	599		6		
+540	Maybin, Cameron	DET	OF	709.97	358	570		5		
+541	Diaz, Jairo	COL	P	710.03	480	571		6		
+542	Kirilloff, Alex	MIN	OF	710.09	430	562		6		
+543	Hayes, Ke'Bryan	PIT	3B	710.34	468	553		6		
+544	Dominguez, Seranthony	PHI	P	710.46	392	578		6		
+545	Sogard, Eric	MLW	2B	710.54	440	567		6		
+546	Fowler, Dexter	STL	OF	711.11	420	577		6		
+547	Rojas, Josh	ARZ	OF	711.74	417	591		6		
+548	Ruiz, Rio	BAL	3B	712.03	341	673		6		
+549	Hicks, Jordan	STL	P	712.43	411	711		7		
+550	Nola, Austin	SEA	1B	712.91	444	533		5		
+551	Thornton, Trent	TOR	P	713.14	351	596		6		
+552	Anderson, Brett	MLW	P	713.14	412	632		6		
+553	Diaz, Elias	COL	C	713.51	475	600		6		
+554	Urena, Jose	MIA	P	713.57	382	624		6		
+555	Anderson, Ian	ATL	P	714.03	419	636		6		
+556	Cishek, Steve	CWS	P	714.74	497	569		6		
+557	Rojas, Miguel	MIA	SS	714.74	473	593		6		
+558	Bote, David	CHC	2B, 3B	714.89	450	598		6		
+559	Varsho, Daulton	ARZ	C	715.17	395	627		6		
+560	VanMeter, Josh	CIN	OF	715.23	493	563		6		
+561	Moreland, Mitch	BOS	1B	716.26	433	590		6		
+562	Allen, Austin	OAK	C	717.11	474	583		5		
+563	Bruce, Jay	PHI	OF	717.29	392	636		6		
+564	Wick, Rowan	CHC	P	717.60	436	572		5		
+565	Crawford, Brandon	SF	SS	718.00	454	564		5		
+566	Clase, Emmanuel	CLE	P	718.57	338	671		5		
+567	Honeywell Jr., Brent	TB	P	718.71	404	627		5		
+568	Gennett, Scooter	SF	2B	719.51	391	680		6		
+569	Kiner-Falefa, Isiah	TEX	C, 3B	719.77	420	639		5		
+570	Rosenthal, Trevor	DET	P	719.80	343	688		5		
+571	Graterol, Brusdar	LAD	P	721.09	488	598		5		
+572	Flores, Wilmer	SF	2B	721.20	539	637		6		
+573	Yamaguchi, Shun	TOR	P	721.57	497	614		6		
+574	Freeland, Kyle	COL	P	722.26	502	609		5		
+575	Castillo, Welington	TEX	C	722.29	543	655		6		
+576	Demeritte, Travis	DET	OF	722.51	253	692		5		
+577	Cron, Kevin	ARZ	1B	722.66	519	573		5		
+578	Petit, Yusmeiro	OAK	P	722.77	346	619		5		
+579	Avila, Alex	MIN	C	722.91	420	685		6		
+580	Luplow, Jordan	CLE	OF	723.63	536	602		5		
+581	Diaz, Aledmys	HOU	1B, 2B	723.69	509	596		5		
+582	Montero, Rafael	TEX	P	724.23	526	613		5		
+583	Stewart, Christin	DET	OF	724.34	554	581		5		
+584	Marisnick, Jake	NYM	OF	724.46	499	684		6		
+585	Arozarena, Randy	TB	OF	724.80	461	572		4		
+586	Young, Alex	ARZ	P	725.09	482	652		5		
+587	Dozier, Brian	FA	2B	725.31	487	650		5		
+588	O'Hearn, Ryan	KC	1B	725.34	541	614		5		
+589	Middleton, Keynan	LAA	P	725.43	557	592		5		
+590	Pina, Manny	MLW	C	725.54	408	657		5		
+591	Pinder, Chad	OAK	2B, OF	725.63	525	596		5		
+592	Strahm, Matt	SD	P	725.77	512	701		5		
+593	Cobb, Alex	BAL	P	726.17	413	639		5		
+594	Kemp, Tony	OAK	2B, OF	727.11	497	643		5		
+595	Oliva, Jared	PIT	OF	727.20	350	651		4		
+596	Tuivailala, Sam	SEA	P	727.34	484	607		4		
+597	Hernandez, Felix	SEA	P	727.34	404	697		5		
+598	Beaty, Matt	LAD	OF, 1B	727.51	530	584		4		
+599	Higashioka, Kyle	NYY	C	727.60	394	744		5		
+600	Perez, Martin	BOS	P	727.63	383	628		4		
+601	Stephenson, Robert	CIN	P	727.66	377	634		4		
+602	Garcia, Yimi	MIA	P	727.89	418	625		4		
+603	McBroom, Ryan	KC	OF	728.00	307	646		4		
+604	Bird, Greg	FA	1B	728.23	487	615		4		
+605	Kay, Anthony	TOR	P	728.86	407	652		3		
+606	Norris, Daniel	DET	P	729.11	514	580		4		
+607	Webb, Logan	SF	P	729.34	458	696		4		
+608	Schmidt, Clarke	NYY	P	729.74	492	671		5		
+609	Wieters, Matt	STL	C	729.77	567	653		5		
+610	Strop, Pedro	CIN	P	730.20	543	695		5		
+611	Moore, Dylan	SEA	SS, OF	730.23	389	656		4		
+612	Rodriguez, Joely	TEX	P	730.46	545	656		5		
+613	Valdez, Framber	HOU	P	731.03	573	649		5		
+614	Kipnis, Jason	FA	2B	731.34	547	618		4		
+615	Brown, Seth	OAK	OF	731.49	500	663		4		
+616	Vazquez, Felipe	PIT	P	731.60	179	644		2		
+617	Ramirez, Harold	MIA	OF	732.14	537	642		4		
+618	Dalbec, Bobby	BOS	3B	732.17	580	670		5		
+619	Heath, Nick	KC	OF	732.23	356	665		3		
+620	Cave, Jake	MIN	OF	732.40	446	584		3		
+621	France, Ty	SD	2B, 3B	732.46	514	665		4		
+622	Richards, Trevor	TB	P	732.49	550	644		4		
+623	Zimmer, Bradley	CLE	OF	733.06	468	718		4		
+624	Dunn, Justin	SEA	P	733.20	505	611		3		
+625	Poche, Colin	TB	P	733.31	578	636		4		
+626	Diaz, Lewin	MIA	1B	733.40	499	717		4		
+627	Lewis, Royce	MIN	SS	733.66	467	731		4		
+628	Toussaint, Touki	ATL	P	733.94	497	715		4		
+629	Quantrill, Cal	SD	P	734.14	586	613		4		
+630	Gant, John	STL	P	734.69	538	698		4		
+631	Nelson, Jimmy	LAD	P	735.00	566	710		4		
+632	Hernandez, Darwinzon	BOS	P	735.14	551	676		4		
+633	Barlow, Scott	KC	P	735.31	554	586		3		
+634	Osuna, Jose	PIT	1B, OF	735.37	556	594		3		
+635	Holland, Greg	ARZ	P	735.60	467	719		4		
+636	Casali, Curt	CIN	C	735.69	529	615		3		
+637	Fisher, Derek	TOR	OF	735.94	504	669		3		
+638	Wittgren, Nick	CLE	P	736.09	564	705		4		
+639	Locastro, Tim	ARZ	OF	736.49	523	615		3		
+640	Waters, Drew	ATL	OF	736.86	444	748		4		
+641	Healy, Ryon	MLW	3B	737.26	574	700		4		
+642	Brujan, Vidal	TB	2B	737.80	578	729		4		
+643	Lugo, Dawel	DET	3B	737.86	335	707		2		
+644	Lucroy, Jonathan	CHC	C	737.89	488	665		3		
+645	Farmer, Buck	DET	P	738.09	540	690		4		
+646	Smeltzer, Devin	MIN	P	738.11	587	688		4		
+647	Adrianza, Ehire	MIN	1B, SS, 3B	738.40	570	622		3		
+648	Guzman, Ronald	TEX	1B	738.40	592	612		3		
+649	Kahnle, Tommy	NYY	P	738.54	558	737		4		
+650	Neuse, Sheldon	OAK	2B	738.77	555	682		3		
+651	Plutko, Adam	CLE	P	738.80	420	704		3		
+652	Gyorko, Jedd	MLW	3B	739.06	555	647		3		
+653	Zimmerman, Ryan	WAS	1B	739.17	590	746		4		
+654	Nova, Ivan	DET	P	739.31	554	716		4		
+655	Martin, Chris	ATL	P	739.31	588	715		4		
+656	Duffey, Tyler	MIN	P	739.37	590	694		4		
+657	McKenzie, Triston	CLE	P	739.63	594	662		3		
+658	Knizner, Andrew	STL	C	739.66	539	683		3		
+659	Taylor, Michael A.	WAS	OF	739.77	527	698		3		
+660	Martin, Richie	BAL	SS	739.77	565	716		3		
+661	Barnes, Austin	LAD	C	739.83	568	703		3		
+662	Wojciechowski, Asher	BAL	P	739.97	544	683		3		
+663	Gilbert, Logan	SEA	P	740.03	503	736		4		
+664	Stephenson, Tyler	CIN	C	740.17	562	736		4		
+665	Duplantier, Jon	ARZ	P	740.37	574	694		4		
+666	Suter, Brent	MLW	P	740.54	597	664		3		
+667	Thomas, Lane	STL	OF	740.74	569	674		3		
+668	Brebbia, John	STL	P	741.03	568	668		3		
+669	Mullins, Cedric	BAL	OF	741.37	528	637		2		
+670	Almora Jr., Albert	CHC	OF	741.49	597	703		4		
+671	Chisholm, Jazz	MIA	SS	741.54	541	630		2		
+672	Jeffress, Jeremy	CHC	P	741.71	592	675		3		
+673	Baez, Pedro	LAD	P	741.74	560	733		4		
+674	Rondon, Hector	ARZ	P	741.80	580	750		4		
+675	Wilson, Bryse	ATL	P	742.03	563	625		2		
+676	Elias, Roenis	WAS	P	742.20	443	443		1		
+677	Castro, Willi	DET	SS	742.20	624	687		3		
+678	Gott, Trevor	SF	P	742.34	553	723		3		
+679	Naylor, Josh	SD	OF	742.43	555	738		4		
+680	Williams, Trevor	PIT	P	742.54	610	709		3		
+681	Edwards Jr., Carl	SEA	P	742.91	622	688		3		
+682	Ruf, Darin	FA	1B	742.94	469	469		1		
+683	Mills, Alec	CHC	P	743.06	635	676		3		
+684	Lowe, Josh	TB	OF	743.06	473	473		1		
+685	Dietrich, Derek	CIN	1B, 2B	743.06	595	629		2		
+686	Allen, Greg	CLE	OF	743.20	616	731		3		
+687	Anderson, Tyler	SF	P	743.34	646	673		3		
+688	Bass, Anthony	TOR	P	743.34	631	712		3		
+689	Salazar, Danny	CLE	P	743.34	592	740		4		
+690	Patino, Luis	SD	P	743.40	492	750		3		
+691	Pena, Felix	LAA	P	743.51	612	732		3		
+692	Cahill, Trevor	LAA	P	743.63	493	493		1		
+693	Nunez, Dom	COL	C	743.69	520	726		2		
+694	Sierra, Magneuris	MIA	OF	743.71	630	725		3		
+695	Estevez, Carlos	COL	P	744.17	667	678		3		
+696	Vaughn, Andrew	CWS	1B	744.17	593	732		3		
+697	Familia, Jeurys	NYM	P	744.23	602	740		3		
+698	Holt, Brock	MLW	2B	744.26	628	712		3		
+699	Javier, Christian	HOU	P	744.34	552	717		2		
+700	Davis, Jaylin	SF	OF	744.34	622	742		3		
+701	Perez, Hernan	MLW	2B, SS	744.63	661	697		3		
+702	De Leon, Jose	CIN	P	744.69	596	733		3		
+703	Grossman, Robbie	OAK	OF	744.74	638	737		3		
+704	Jackson, Alex	ATL	C	744.80	534	534		1		
+705	Phillips, Brett	KC	OF	744.86	536	536		1		
+706	Beeks, Jalen	TB	P	744.94	539	539		1		
+707	Miller, Brad	STL	3B	744.97	671	686		3		
+708	Rutschman, Adley	BAL	C	745.03	542	542		1		
+709	Montgomery, Mike	KC	P	745.14	651	716		3		
+710	Rodriguez, Ronny	MLW	2B, SS	745.17	612	686		2		
+711	Duvall, Adam	ATL	OF	745.20	598	744		3		
+712	Garrett, Amir	CIN	P	745.31	649	728		3		
+713	Drury, Brandon	TOR	3B, OF	745.40	645	717		3		
+714	Kaprielian, James	OAK	P	745.69	620	696		2		
+715	Alzolay, Adbert	CHC	P	745.77	648	714		3		
+716	Andriese, Matt	LAA	P	745.94	618	707		2		
+717	Allard, Kolby	TEX	P	746.03	619	738		3		
+718	Feliz, Michael	PIT	P	746.06	623	706		2		
+719	Paredes, Isaac	DET	3B	746.17	605	728		2		
+720	Bradley, Bobby	CLE	UT	746.17	582	582		1		
+721	Soria, Joakim	OAK	P	746.17	657	718		3		
+722	Lowrie, Jed	NYM	2B	746.23	611	724		2		
+723	Steckenrider, Drew	MIA	P	746.34	659	736		3		
+724	Ruiz, Keibert	LAD	C	746.37	589	589		1		
+725	Mendick, Danny	CWS	SS	746.40	666	675		2		
+726	Abreu, Bryan	HOU	P	746.43	655	687		2		
+727	Thaiss, Matt	LAA	3B	746.66	599	599		1		
+728	Kuhl, Chad	PIT	P	746.69	667	684		2		
+729	Godley, Zack	TOR	P	746.69	633	718		2		
+730	Cervelli, Francisco	MIA	C	746.71	631	721		2		
+731	Rodriguez, Julio	SEA	OF	746.86	606	606		1		
+732	Phegley, Josh	FA	C	746.89	676	734		3		
+733	King, Michael	NYY	P	746.94	660	700		2		
+734	Ervin, Phillip	CIN	OF	747.00	663	699		2		
+735	Cessa, Luis	NYY	P	747.11	632	734		2		
+736	Cotton, Jharel	CHC	P	747.14	696	720		3		
+737	Pruitt, Austin	HOU	P	747.23	667	749		3		
+738	Toro, Abraham	HOU	3B	747.34	661	739		3		
+739	Morrow, Brandon	CHC	P	747.49	628	628		1		
+740	Graveman, Kendall	SEA	P	747.51	680	700		2		
+741	Duggar, Steven	SF	OF	747.54	654	727		2		
+742	Stewart, DJ	BAL	OF	747.54	630	630		1		
+743	Sanchez, Jesus	MIA	OF	747.66	638	747		2		
+744	Castro, Harold	DET	2B, OF	747.86	682	748		3		
+745	Fairbanks, Peter	TB	P	747.89	642	642		1		
+746	Rogers, Tyler	SF	P	748.00	677	720		2		
+747	Stubbs, Garrett	HOU	C	748.00	672	725		2		
+748	Kittredge, Andrew	TB	P	748.17	694	709		2		
+749	Naquin, Tyler	CLE	OF	748.17	693	710		2		
+750	Allen, Logan	CLE	P	748.20	702	747		3		
+751	Senzatela, Antonio	COL	P	748.20	691	713		2		
+752	Gore, Terrance	KC	OF	748.20	653	653		1		
+753	Jones, Nolan	CLE	3B	748.34	658	658		1		
+754	Altavilla, Dan	SEA	P	748.37	659	659		1		
+755	Hechavarria, Adeiny	ATL	2B, SS	748.40	660	660		1		
+756	Cameron, Daz	DET	OF	748.46	662	662		1		
+757	Gomber, Austin	STL	P	748.49	663	663		1		
+758	Hill, Tim	KC	P	748.60	673	745		2		
+759	Adams, Matt	FA	1B	748.63	668	668		1		
+760	Smith Jr., Dwight	BAL	OF	748.69	704	746		3		
+761	Perez, Michael	TB	C	748.69	699	722		2		
+762	Swanson, Erik	SEA	P	748.69	670	670		1		
+763	Vesia, Alex	MIA	P	748.74	697	726		2		
+764	Garcia, Adolis	TEX	OF	748.80	701	724		2		
+765	Fowler, Dustin	OAK	OF	748.91	678	678		1		
+766	Kelly, Joe	LAD	P	748.91	678	678		1		
+767	Sims, Lucas	CIN	P	748.94	679	679		1		
+768	Rengifo, Luis	LAA	2B	748.94	679	679		1		
+769	Fulmer, Michael	DET	P	748.94	701	729		2		
+770	Brault, Steven	PIT	P	749.00	681	681		1		
+771	Russell, Addison	FA	2B, SS	749.11	690	746		2		
+772	Chatham, C.J.	BOS	SS	749.17	687	687		1		
+773	Wisdom, Patrick	SEA	3B	749.23	689	689		1		
+774	Devenski, Chris	HOU	P	749.29	691	691		1		
+775	Rogers, Jake	DET	C	749.29	691	691		1		
+776	Trammell, Taylor	CIN	OF	749.31	692	692		1		
+777	Garcia, Jarlin	SF	P	749.34	693	693		1		
+778	Gallagher, Cam	KC	C	749.49	698	698		1		
+779	Garneau, Dustin	HOU	C	749.69	705	705		1		
+780	Cruz, Oneil	PIT	SS	749.71	727	730		2		
+781	Bedrosian, Cam	LAA	P	749.71	706	706		1		
+782	Thorpe, Lewis	MIN	P	749.74	715	743		2		
+783	Rainey, Tanner	WAS	P	749.74	707	707		1		
+784	Castillo, Rusney	BOS	OF	749.83	710	710		1		
+785	Estrada, Marco	OAK	P	749.86	711	711		1		
+786	Suarez, Ranger	PHI	P	749.91	713	713		1		
+787	Eickhoff, Jerad	PHI	P	749.94	714	714		1		
+788	Vizcaino, Arodys	SEA	P	749.94	714	714		1		
+789	Sandoval, Pablo	FA	3B, 1B	750.09	719	719		1		
+790	Singer, Brady	KC	P	750.09	719	719		1		
+791	Zimmermann, Jordan	DET	P	750.11	720	720		1		
+792	Guerra, Junior	ARZ	P	750.14	721	721		1		
+793	Kozma, Pete	DET	SS	750.14	721	721		1		
+794	Garcia, Jose	CIN	SS	750.20	723	723		1		
+795	Diaz, Yusniel	BAL	OF	750.23	724	724		1		
+796	Plawecki, Kevin	BOS	C	750.31	727	727		1		
+797	Kemp, Matt	CIN	OF	750.34	728	728		1		
+798	Brosseau, Mike	TB	2B	750.37	729	729		1		
+799	Descalso, Daniel	CHC	2B	750.40	730	730		1		
+800	Jefferies, Daulton	OAK	P	750.40	730	730		1		
+801	Farmer, Kyle	CIN	2B	750.43	731	731		1		
+802	Martin, Jason	PIT	OF	750.49	733	733		1		
+803	Wade, Tyler	NYY	OF, 2B	750.51	734	734		1		
+804	Adams, Chance	KC	P	750.54	735	735		1		
+805	Mercer, Jordy	FA	SS	750.54	735	735		1		
+806	Stammen, Craig	SD	P	750.54	735	735		1		
+807	Chacin, Jhoulys	BOS	P	750.60	737	737		1		
+808	Owings, Chris	BOS	2B	750.63	738	738		1		
+809	Burdi, Nick	PIT	P	750.66	739	739		1		
+810	Joyce, Matt	MIA	OF	750.66	739	739		1		
+811	Lopes, Tim	SEA	OF	750.69	740	740		1		
+812	Difo, Wilmer	WAS	SS	750.71	741	741		1		
+813	Rios, Edwin	LAD	1B	750.71	741	741		1		
+814	Garlick, Kyle	PHI	OF	750.74	742	742		1		
+815	Valaika, Pat	BAL	2B	750.74	742	742		1		
+816	Torrens, Luis	SD	C	750.77	743	743		1		
+817	Gamel, Ben	MLW	OF	750.77	743	743		1		
+818	Taillon, Jameson	PIT	P	750.80	744	744		1		
+819	Trivino, Lou	OAK	P	750.83	745	745		1		
+820	Heineman, Scott	TEX	OF	750.89	747	747		1		
+821	Bailey, Brandon	BAL	P	750.91	748	748		1		
+822	Rooker, Brent	MIN	OF	750.94	749	749		1		
+823	Torreyes, Ronald	MIN	2B	750.94	749	749		1		
+824	Munoz, Yairo	STL	3B, OF	750.97	750	750		1		

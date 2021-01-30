@@ -17,10 +17,10 @@ namespace DraftAssistant.Core.Tests
         {
             var path = @"C:\ProjectionData\combined.csv";
             File.Delete(path);
-            var playerADPs = Core.NFBCParser.ParseADP(@"C:\ProjectionData\ADP.tsv");
-            var hitters = Core.DepthChartsParser.ParseHitterCsv(@"C:\ProjectionData\DepthChartsProjectionsHitters.csv");
-            var pitchers = Core.DepthChartsParser.ParsePitcherCsv(@"C:\ProjectionData\DepthChartsProjectionsPitchers.csv");
-            var dynastyRanks = Core.DynastyRankParser.ParseDynastyCsv(@"C:\ProjectionData\IBWDynasty2020.csv");
+            var playerADPs = Core.NFBCParser.ParseADP(@".\TestFiles\ADP.tsv");
+            var hitters = Core.DepthChartsParser.ParseHitterCsv(@".\TestFiles\DepthChartsProjectionsHitters.csv");
+            var pitchers = Core.DepthChartsParser.ParsePitcherCsv(@".\TestFiles\DepthChartsProjectionsPitchers.csv");
+            var dynastyRanks = Core.DynastyRankParser.ParseDynastyCsv(@".\TestFiles\IBWDynasty2020.csv");
 
             var aggHitters = PlayerAggregator.AggregateHitters(playerADPs, hitters, dynastyRanks);
             var aggPitchers = PlayerAggregator.AggregatePitchers(playerADPs, pitchers,dynastyRanks);
